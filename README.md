@@ -1,8 +1,4 @@
 # react-redux-crud
-React and Redux CRUD
-
-
-# react-redux-crud
 React &amp; Redux CRUD
 ---
 
