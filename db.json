@@ -1,0 +1,24 @@
+{
+  "libros": [
+    {
+      "id": 1,
+      "nombre": "React hooks",
+      "precio": "270"
+    },
+    {
+      "id": 2,
+      "nombre": "React y Redux",
+      "precio": 40
+    },
+    {
+      "id": 3,
+      "nombre": "Machine Learning",
+      "precio": "1500"
+    },
+    {
+      "nombre": "de ellos a ellas",
+      "precio": "150",
+      "id": 4
+    }
+  ]
+}
