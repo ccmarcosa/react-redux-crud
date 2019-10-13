@@ -4,7 +4,7 @@ React &amp; Redux CRUD
 
 To run this project on your local computer follow these steps:
 
-**1. Clon or download the project**
+**1. Clone or download the project**
 
 **2. Install the dependencies**
 ```
